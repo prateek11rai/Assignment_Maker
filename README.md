@@ -10,6 +10,7 @@ This repository lets you make handwritten assignments by typing your answers in 
  <a href=""><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50" style="vertical-align:top; margin:4px"></a>
  <a href=""> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="50" style="vertical-align:top; margin:4px"></a>
   <a href=""> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="50" style="vertical-align:top; margin:4px"></a>
+  <a href=""> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" height="50" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 2. Input/Output
