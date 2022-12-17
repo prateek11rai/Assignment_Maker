@@ -36,7 +36,7 @@ Link : https://assignmentmaker.netlify.app/
 
 ### Settings and customizations 
 <p align="center">
- <a ><img src="https://github.com/prateek11rai/Assignment_Maker/blob/main/Image/5.png" alt="Settings Mode"  style="vertical-align:top; margin:4px"></a>
+ <a ><img src="https://github.com/prateek11rai/Assignment_Maker/blob/main/Image/5.png" alt="Settings Mode"  style="vertical-align:top; margin:5px"></a>
 </p>
 
 ### Input and output 
